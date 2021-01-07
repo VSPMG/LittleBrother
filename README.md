@@ -1,4 +1,5 @@
 # LittleBrother v2.1
+CREATED BY ABIRHASSAN2005 THE GREAT BOT MAKER DIED YESTERDAY DUE TO HIS PERSONAL PROBLEMS THATS WHY I POST THIS IN OUR PAGE
 LittleBrother is an information collection tool (OSINT) which aims to carry out research on a French, Swiss, Luxembourg or Belgian and other person. Also it provides various modules that allow efficient searches world wide. This is more powerful than UserRecon. LittleBrother does not require an API key or login ID.
 
 ## Note:
